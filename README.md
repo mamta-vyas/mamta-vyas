@@ -20,13 +20,22 @@
 ## 📂 Featured Projects
 
 ### 🎬 [Movie GPT App](https://movie-gpt-94687.web.app)  
-AI-powered movie recommendation app using Google AI & TMDB API.
+An AI-powered movie recommendation web app built using **Google Gemini API**, **TMDB API**, **Firebase**, and **Redux Toolkit**.  
+- Integrated Google Gemini API to provide intelligent, dynamic movie suggestions.  
+- Used Firebase for authentication and hosting.  
+- Managed global state with Redux Toolkit for smoother UX.  
 
 ### 📺 [YouTube Clone](https://roaring-twilight-7ffa8d.netlify.app)  
-Functional YouTube UI clone with search, video playback, and AI comments.
+A frontend YouTube UI clone built using **React.js**, **Tailwind CSS**, and **YouTube Data API v3**.  
+- Implemented search with **debounced suggestions** for performance.  
+- Fetched video metadata using YouTube API v3.  
+- Added AI-generated random comments using Gemini API for demo purposes.  
 
 ### 🍔 Swiggy App Clone  
-Food delivery app featuring restaurant listings and cart functionality.
+A frontend clone of Swiggy food delivery app using **React.js**, **Tailwind CSS**, and simulated Swiggy API.  
+- Built a restaurant listing UI with cart functionality.  
+- Used **Context API** for lightweight state management.  
+- Designed mobile-first, responsive layout for real-world UX feel.  
 
 ---
 
