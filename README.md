@@ -18,35 +18,26 @@
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
+🎬 Movie GPT App
+Tech: React.js, Redux Toolkit, Firebase, Tailwind CSS, TMDB API, Google Gemini API
+AI-powered movie recommendation app using Google Gemini and TMDB. Includes authentication with Firebase and Redux-powered state management.
 
-### 🎬 [Movie GPT App](https://movie-gpt-94687.web.app)  
-> **Tech:** React.js, Redux Toolkit, Tailwind CSS, Firebase Auth, **Google Gemini API**, TMDB API  
-AI-powered movie recommendation app with secure login and intelligent search via Gemini.
+📺 YouTube Clone
+Tech: React.js, Redux, Tailwind CSS, YouTube Data V3 API, Debouncing
+Functional YouTube UI clone with debounced search and random comment generation using a fake user API.
 
----
+🍔 Swiggy App Clone
+Tech: React.js, Redux Toolkit, Tailwind CSS, Swiggy API
+Food delivery app featuring restaurant listings, cart functionality, and responsive design with state managed via Context API.
 
-### 📺 [YouTube Clone](https://roaring-twilight-7ffa8d.netlify.app)  
-> **Tech:** React.js, Redux, Tailwind CSS, **YouTube Data V3 API**, Debouncing  
-YouTube-style UI with real-time search suggestions and AI-generated comment simulation.
+💼 HireHub
+Tech: Next.js, Tailwind CSS
+Job listing platform built with Next.js featuring clean UI, job filtering, and fast routing.
 
----
-
-### 🍔 Swiggy App Clone  
-> **Tech:** React.js, Redux Toolkit, Tailwind CSS, Swiggy API  
-Restaurant listing, cart functionality, and mobile-first responsive design.
-
----
-
-### 💼 [HireHub](https://hire-hub-nine.vercel.app)  
-> **Tech:** Next.js, Tailwind CSS  
-Modern job platform UI built with Next.js, featuring clean layout and fast performance.
-
----
-
-### ✈️ [FlyHigh](https://flyhigh-6b870.web.app)  
-> **Tech:** React.js, Tailwind CSS, Dummy API  
-Simple travel booking UI using dummy data and clean responsive layout.
+✈️ FlyHigh
+Tech: React.js, Tailwind CSS, Dummy REST API
+Travel booking site UI using dummy API for destinations, with responsive layout and modular components.
 
 ---
 
