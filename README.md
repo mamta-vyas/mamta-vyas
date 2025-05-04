@@ -19,7 +19,7 @@
 
 ## 📂 Featured Projects
 
-### 🎬 [Movie GPT App](https://movie-gpt-94687.web.app)  
+### 🎬 [Movie GPT App](https://movie-gpt-28192.web.app/))  
 > **Tech:** React.js, Redux Toolkit, Firebase, Tailwind CSS, TMDB API, **Google Gemini API**  
 AI-powered movie recommendation app using Google Gemini and TMDB. Includes authentication with Firebase and Redux-powered state management.
 
