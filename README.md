@@ -40,7 +40,7 @@ AI-powered movie recommendation app using Google Gemini and TMDB. Includes authe
 > **Tech:** React.js, Redux, Tailwind CSS, **YouTube Data V3 API**, Debouncing  
 Functional YouTube UI clone with **debounced search** and **random comment generation** using a fake user API.
 
-### 🍔 [Swiggy App Clone](https://example-link.com)  
+### 🍔 [Swiggy App Clone] 
 > **Tech:** React.js, Redux Toolkit, Tailwind CSS, Swiggy API  
 Food delivery app featuring restaurant listings, cart functionality, and responsive design with state managed via Context API.
 
