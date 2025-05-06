@@ -17,26 +17,34 @@
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 
-### 🎬 [Movie GPT App](https://moviesgpt-webapp.netlify.app/))  
-> **Tech:** React.js, Redux Toolkit, Firebase, Tailwind CSS, TMDB API, **Google Gemini API**  
+🗺️ Travel-Wishlist App
+Tech: React.js, Redux Toolkit, Tailwind CSS, Firebase Auth, OpenWeatherMap API, Google Gemini API, Foursquare API, Leaflet.js, MongoDB, Express.js
+Developed a full-stack travel-wishlist app with user authentication via Firebase and dynamic data fetching using multiple APIs. Managed state with Redux Toolkit and optimized performance for mobile-first UI.
+
+💼 Naukri-Clone App
+Tech: React.js, Redux Toolkit, Firebase Auth, Tailwind CSS, Node.js, Express, MongoDB, JWT
+Built a job portal clone with job listings, secure authentication using Firebase and JWT, and implemented pagination and dark mode with responsive design. Utilized Redux Toolkit for state management.
+
+🎬 Movie GPT App
+Tech: React.js, Redux Toolkit, Firebase, Tailwind CSS, TMDB API, Google Gemini API
 AI-powered movie recommendation app using Google Gemini and TMDB. Includes authentication with Firebase and Redux-powered state management.
 
-### 📺 [YouTube Clone](https://roaring-twilight-7ffa8d.netlify.app)  
-> **Tech:** React.js, Redux, Tailwind CSS, **YouTube Data V3 API**, Debouncing  
-Functional YouTube UI clone with **debounced search** and **random comment generation** using a fake user API.
+📺 YouTube Clone
+Tech: React.js, Redux, Tailwind CSS, YouTube Data V3 API, Debouncing
+Functional YouTube UI clone with debounced search and random comment generation using a fake user API.
 
-### 🍔 Swiggy App Clone  
-> **Tech:** React.js, Redux Toolkit, Tailwind CSS, Swiggy API  
+🍔 Swiggy App Clone
+Tech: React.js, Redux Toolkit, Tailwind CSS, Swiggy API
 Food delivery app featuring restaurant listings, cart functionality, and responsive design with state managed via Context API.
 
-### 💼 [HireHub](https://hire-hub-nine.vercel.app)  
-> **Tech:** Next.js, Tailwind CSS  
+💼 HireHub
+Tech: Next.js, Tailwind CSS
 Job listing platform built with Next.js featuring clean UI, job filtering, and fast routing.
 
-### ✈️ [FlyHigh](https://flyhigh-6b870.web.app)  
-> **Tech:** React.js, Tailwind CSS, Dummy REST API  
+✈️ FlyHigh
+Tech: React.js, Tailwind CSS, Dummy REST API
 Travel booking site UI using dummy API for destinations, with responsive layout and modular components.
 
 ---
