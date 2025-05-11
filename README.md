@@ -60,7 +60,7 @@ Travel booking site UI using dummy API for destinations, with responsive layout 
 ---
 
 ## 📄 Resume  
-[![Resume](https://img.shields.io/badge/-View%20Resume-green?style=flat-square&logo=adobeacrobatreader)](https://github.com/mamta-vyas/mamta-vyas/blob/main/finalresume.pdf)
+[![Resume](https://img.shields.io/badge/-View%20Resume-green?style=flat-square&logo=adobeacrobatreader)](https://github.com/mamta-vyas/mamta-vyas/blob/main/fullstackres.pdf)
 
 ---
 
