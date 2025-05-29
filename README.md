@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mamta Kumari Vyas
 
-🚀 Frontend Developer | React.js | Redux | Tailwind CSS  
+🚀 Frontend Developer | React.js | Tailwind CSS | Building Responsive & Interactive Web Apps 
 🎯 Passionate about building scalable, responsive web apps with clean UI & strong architecture.  
 📍 Based in India | Open to job opportunities
 
